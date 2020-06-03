@@ -1192,3 +1192,39 @@ LogInit: Object subsystem initialized
 [2020.06.03-17.20.32:401][878]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2020.06.03-17.20.32:902][878]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2020.06.03-17.20.33:403][878]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.06.03-17.20.33:903][878]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2020.06.03-17.20.34:404][878]LogHttp: Warning: 0000022F40488900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.03-17.20.34:404][878]LogHttp: Warning: 0000022F40488900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.03-17.20.34:404][878]LogHttp: Warning: 0000022F40488900: libcurl info message cache 1 (Closing connection 17)
+[2020.06.03-17.20.34:422][878]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.06.03-17.20.34:423][878]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.06.03-17.20.34:423][878]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.06.03-17.20.34:423][878]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.06.03-17.20.34:423][878]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.06.03-17.20.34:424][878]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.06.03-17.20.34:424][878]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.06.03-17.20.34:425][878]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.06.03-17.20.34:433][878]LogExit: Exiting.
+[2020.06.03-17.20.34:446][878]Log file closed, 06/03/20 19:20:34
